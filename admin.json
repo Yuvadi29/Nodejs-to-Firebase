@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "planar-osprey-317715",
+  "private_key_id": "b6aa9879f47d7195c5b608d0c64b8b48d53950a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+A82F0KURJF6T\niIvQ7OkE7RztoiQQS4zrRUO6AHfG8T4uLp4ShP9k52XiquQEcRphq14CssyFTjdS\nkHGFQQFAWaZDuWUvXOK1mKnv/jHCV/0Y2EfCyCUVLeNaqoGDfPnw+HX5GGkMEnjX\nW3mLlrZ/74KLq47YDm+BfGB3Moh24kipyylcytR3XmIA4KQpc7X8PqpYFWt5h/xZ\n84XZxL49Co2RG4VxNyMhzd3NvcLHGBWjPsfvw54TE0FKFTsQHrO4YPKFr52HIIq+\nKWIkfjFcNcFfEn/FFfLBYn7jGAqNmRPoX/vey8Q2CSaOr2bgY5t8rb1oNEzfVLuk\nLLlEH8o1AgMBAAECggEAAtrzxhFlXMvH6aRuCKATietpbKvr3TYFbBOiYBnzTGrO\n0GRxVteAyJD7MVv4CS9zggkDl9Uv+/ps6Msa3MtZRXcTZ7kfEbmHmDFiSSTv6OFO\nZrn5RuGf2dQF5ceu71biOpv0Y3kM1Kc1m0ByPYXwpoOAc32keKkSEkc+lXJajDUo\nbWKURLOI38JiBK+Tje9DiJ6raBo10bjAG661/SxIWiU2O76z7rtBgBaphwn64Ufp\nh9ZALGByLmWU4XM0NNf/psa+qpRPgiFXiTDaey82jZtl0MXCcTV2/jMu6U96SkfU\nqlebf4gqNm3J9qUpWNLPtps7QQ/tj3HNETvCLuypEQKBgQDvY2a+opw2RcoSitVV\nowtiUX22aa4+U0gH7rWMQ/wUjIOD1sPw8Fywjrp+xrXov/7wBGNjt+PsxHyX80aE\nkbB9Of2frQMolFUGojlfR0MxzNrk8SudZXK4PWF4nLORKO3IBd8sp8f56XKcfZEX\nOH5wP+gD2Ytev+SpNo2f1ZWH/wKBgQDLM09mIZcFUWHwCoea3q6m4bTiXahkfBf3\nbQE7VLm1iTtzH5VtqF5xSgoCQCPX7qoyXxHf5Vw4XdTSWeenTOHrHUVrCqRtc4KB\nKcUMa6jEE/Fd8dwRBF3s00uaAcSn73Og//Zz75BVlSqBbXj79Jd1vBxgeT6ar4NH\ngFTNCVsNywKBgH+vOUI9YazhFKNHQfrneE78wFzniXTc3vK8NEGYkYA0YoGTr/d3\nfTj/KCIuwyBeKBDFhm3Ny9iiBQLXU6mqO8TPhaQBmEmwtJlRNeDIFeMeLTMoH+dY\nERSMSM0YZ/7pIcsqtpsO8u8twWAO6bDFBUvCCnLjOh9ToxdObcPvHE7pAoGANmCa\nxNgEVBX9QYFv3I/u6RXJlDJAF/Plbf8rrzbzI5N/50Tydg/yhhqsJwIHFYf239f1\nLpdwYF0r0MbiaTD33DVPGGAWtHuO1wXYh4Rf+2ji1KMeoycqA3Bf8Oy8Nbysks8s\nosXfOCfc4hnroHFJ/uXCKkcH69lAJmg/SUdRqJUCgYEA1QRtrDf1zO+gXmXGSJDc\n/1NalMbg+1nkgaryxgUC0ZYAO8g3Zv0IIbm46lWwKmSwOWVg99VPRgkGGgwzOc+G\npxjXSWiK/qb6MTIS7Mn5YFwjwlvP9kS4hHtoqNmacxrIP5j0K3yMfgc6/V7qebS9\nsWyW64TUil1mDfXAFwOghAE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-um853@planar-osprey-317715.iam.gserviceaccount.com",
+  "client_id": "108203054917771346573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-um853%40planar-osprey-317715.iam.gserviceaccount.com"
+}
